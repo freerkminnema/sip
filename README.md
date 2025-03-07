@@ -2,7 +2,7 @@
 A SIP client in PHP.
 
 ```
-composer require freerkminnema/sip-client
+composer require freerkminnema/sip
 ```
 
 ```php
