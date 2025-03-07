@@ -1,5 +1,4 @@
-# sip-client
-A SIP client in PHP.
+# A SIP client in PHP.
 
 ```
 composer require freerkminnema/sip
