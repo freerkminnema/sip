@@ -18,8 +18,11 @@
     },
     "autoload": {
         "psr-4": {
-            "FreerkMinnema\\Sip\\": "src"
-        }
+            "FreerkMinnema\\Sip\\": "src/"
+        },
+        "files": [
+            "src/Helpers.php"
+        ]
     },
     "config": {
         "sort-packages": true
