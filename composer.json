@@ -1,0 +1,30 @@
+{
+    "name": "freerkminnema/sip-client",
+    "description": "A SIP client.",
+    "keywords": [
+        "sip",
+        "voip",
+        "signalling"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Freerk Minnema",
+            "email": "freerk.minnema@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "FreerkMinnema\\SipClient\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "require-dev": {
+        "laravel/pint": "^1.21"
+    }
+}
