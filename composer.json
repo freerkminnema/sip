@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "FreerkMinnema\\SipClient\\": "src"
+            "FreerkMinnema\\Sip\\": "src"
         }
     },
     "config": {
