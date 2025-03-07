@@ -12,3 +12,5 @@ $client = new \FreerkMinnema\Sip\Client([
 ]);
 $client->call('extension@pbx.example.com');
 ```
+
+Once it starts the ringing, it won't cancel. You'll need to pick up the phone or wait for the time-out.
